@@ -1,6 +1,6 @@
 # Introduction
 
-This is the source code of D-DGCN, the method we proposed in Orders Are Unwanted: Dynamic Deep Graph Convolutional Network for Personality Detection, which is accepted by AAAI2023. The document describes how to reproduce the experiment result. We also provide a [Chinese version document](Readme_zh.md).![1669439411191](image/Readme/1669439411191.png)
+The source code of AAAI2023 paper "Orders Are Unwanted: Dynamic Deep Graph Convolutional Network for Personality Detection". The document describes how to reproduce the experiment result. We also provide a [Chinese version document](Readme_zh.md).![1669439411191](image/Readme/1669439411191.png)
 
 # Requirements
 
