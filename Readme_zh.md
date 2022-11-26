@@ -9,7 +9,7 @@
 * [PyTorch](http://pytorch.org/) version >= 1.7
 * [transformers](https://huggingface.co/docs/transformers/) version >= 2.9.0
 
-数据集和后训练好的BERT模型在[谷歌云盘](https://drive.google.com/file/d/11I4S855diOw7859Idd22lRmosJc4XQYk/view?usp=share_link)和[百度网盘](https://pan.baidu.com/s/1V6v_UFWIqKBoo-HbDaplxA)(验证码: y2je)下载。
+数据集和后训练好的BERT模型在[谷歌云盘](https://drive.google.com/file/d/1Pi_zA9ZsFWEc4oIolbnN3GkF3OSyQioB/view)和[百度网盘](https://pan.baidu.com/s/1X0jK3wm5_uxASOWRiEf1dA)(验证码: 97vd)下载。
 
 # Main Results
 
