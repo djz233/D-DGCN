@@ -7,12 +7,13 @@ The source code of AAAI2023 paper "**Orders Are Unwanted: Dynamic Deep Graph Con
 * [PyTorch](http://pytorch.org/) version >= 1.7
 * [transformers](https://huggingface.co/docs/transformers/) version >= 2.9.0
 
-Datasets and post-trained BERT are available in [Google Drive](https://drive.google.com/file/d/1Pi_zA9ZsFWEc4oIolbnN3GkF3OSyQioB/view?usp=share_link) and
-[Baidu Netdisk](https://pan.baidu.com/s/1X0jK3wm5_uxASOWRiEf1dA) (verification code: 97vd).
+Datasets and post-trained BERT are available in [Google Drive]([https://drive.google.com/file/d/1Pi_zA9ZsFWEc4oIolbnN3GkF3OSyQioB/view?usp=share_link](https://drive.google.com/file/d/1wMB7jNhve2KJaoaFuX2o0JtDjH8wZ0CM/view?usp=share_link)) and
+[Baidu Netdisk](https://pan.baidu.com/s/1jURrE_XOWDOcoET7gN96Aw) (verification code: 96ap).
+* [Pandora MBTI datasets](https://psy.takelab.fer.hr/datasets/all/pandora/) are not public datasets, please contact the author on the offical website for permission.
 
 # Main Results
 
-There are **2** datasets, [Kaggle](https://www.kaggle.com/datasnaek/mbti-type) and [Pandora MBTI datasets](https://psy.takelab.fer.hr/datasets/all/) for our evaluations.
+There are **2** datasets, [Kaggle](https://www.kaggle.com/datasnaek/mbti-type) and [Pandora MBTI datasets](https://psy.takelab.fer.hr/datasets/all/pandora/) for our evaluations.
 
 Example cmd for running experiments on *Kaggle*
 
