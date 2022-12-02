@@ -9,7 +9,8 @@
 * [PyTorch](http://pytorch.org/) version >= 1.7
 * [transformers](https://huggingface.co/docs/transformers/) version >= 2.9.0
 
-数据集和后训练好的BERT模型在[谷歌云盘](https://drive.google.com/file/d/1Pi_zA9ZsFWEc4oIolbnN3GkF3OSyQioB/view)和[百度网盘](https://pan.baidu.com/s/1X0jK3wm5_uxASOWRiEf1dA)(验证码: 97vd)下载。
+数据集和后训练好的BERT模型在[谷歌云盘](https://drive.google.com/file/d/1wMB7jNhve2KJaoaFuX2o0JtDjH8wZ0CM/view?usp=share_link)和[百度网盘](https://pan.baidu.com/s/1jURrE_XOWDOcoET7gN96Aw)(验证码: 96ap)下载。
+* [Pandora MBTI datasets](https://psy.takelab.fer.hr/datasets/all/pandora/)不是公开数据集, 请在官网联系作者获得许可.
 
 # Main Results
 
