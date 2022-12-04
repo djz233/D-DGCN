@@ -31,6 +31,8 @@ python main.py \
 
 *all_gpu_train_batch_size*在*Kaggle*上设置为8, 在*Pandora*上设置为4.
 
+最佳检查点在[谷歌云盘](https://drive.google.com/file/d/1EtkuvwLVGrnAusInltFKQoMvgC_9Wjxf/view?usp=share_link)下载。
+
 # Ablation Experiments
 
 部分消融实验的复现需要修改源代码，我们以后会对其进行优化。
