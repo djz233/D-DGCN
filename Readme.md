@@ -30,6 +30,8 @@ apply *--l0* to enable L0 constraint on L2C, corresponding to **Eq(15)** in the 
 
 *all_gpu_train_batch_size* is set to 8 for *Kaggle*, and 4 for *Pandora*.
 
+Best checkpoint is available in [Google Drive](https://drive.google.com/file/d/1EtkuvwLVGrnAusInltFKQoMvgC_9Wjxf/view?usp=share_link).
+
 # Ablation Experiments
 
 Reproduing some ablation experiments need to modify source code, we will improve it in the future work.
