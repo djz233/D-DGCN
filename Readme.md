@@ -8,8 +8,8 @@ The source code of AAAI2023 paper "**[Orders Are Unwanted: Dynamic Deep Graph Co
 * [transformers](https://huggingface.co/docs/transformers/) version >= 2.9.0
 
 Datasets and post-trained BERT are available in [Google Drive](https://drive.google.com/file/d/1wMB7jNhve2KJaoaFuX2o0JtDjH8wZ0CM/view?usp=share_link) and
-[Baidu Netdisk](https://pan.baidu.com/s/1jURrE_XOWDOcoET7gN96Aw) (verification code: 96ap).
-* [Pandora MBTI datasets](https://psy.takelab.fer.hr/datasets/all/pandora/) are not public datasets, please contact the author on the offical website for permission. Pandora preprocessing files are provided in [pandora](pandora).
+[Baidu Netdisk](https://pan.baidu.com/s/1jURrE_XOWDOcoET7gN96Aw) (verification code: 96ap). Preprocessing files are provided in folders [pandora](pandora) and [kaggle](kaggle), respectively.
+* [Pandora MBTI datasets](https://psy.takelab.fer.hr/datasets/all/pandora/) are not public datasets, please contact the author on the offical website for permission.
 
 # Main Results
 
