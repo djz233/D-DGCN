@@ -50,12 +50,8 @@ def parse_args():
 
     # Model parameters
 
-    # parser.add_argument('--model_dir', type=str, default='../../bert-gcn/xlnet-base-cased',
-    #                     help='Path to pre-trained model.')
-    parser.add_argument('--model_dir', type=str, default='../scr4/bert-base-cased',
+    parser.add_argument('--model_dir', type=str, default='bert-base-cased',
                         help='Path to pre-trained model.')
-    # parser.add_argument('--model_dir', type=str, default='../../bert-gcn/roberta-base',
-    #                     help='Path to pre-trained model.')
 
     parser.add_argument('--pretrain_type', type=str,default='bert', choices=['bert', 'xlnet', 'roberta'])
 
